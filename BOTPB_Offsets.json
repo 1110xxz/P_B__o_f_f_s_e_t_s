@@ -1,0 +1,48 @@
+{
+  "Version": 6.5,
+  "offsets": {
+    "dwLocalPlayer": "0xFCA1FC",
+    
+    "CServerInfoContext_Ptr": "0xFC0AE4",
+    "CServerInfoContext_Ptr_Key": "0xFC0AFC",
+    "m_ServerList": "0x180",
+
+    "ChannelList_Ptr": "0xFC07E0",
+    "ChannelList_Ptr_Key1": "0xFC0770",
+    "ChannelList_Ptr_Key2": "0xFC076C",
+    "m_ChannelList": "0x38",
+
+
+    "Room_Ptr": "0xFC47F0",
+    "Room_Ptr_Key1": "0xFC47D0",
+    "Room_Ptr_Key2": "0xFC47D4",
+    "m_Room": "0x28",
+
+    
+    "Team_Ptr": "0xFC0640",
+    "Team_Ptr_Key1": "0xFC0630",
+    "Team_Ptr_Key2": "0xFC062C",
+    "m_Team": "0x4E8",
+
+    
+    "ButtonStart_Ptr": "0xFA4D6C",
+    "ButtonStart_Ptr_Key1": "0xFA4D5C",
+    "ButtonStart_Ptr_Key2": "0xFA4D58",
+    "m_ButtonStart": "0x110",
+
+    "oBaseHealth": "0xD6C",
+    "oHealth": "0x14",
+
+    "MouseSpeed_Ptr": "0xFC0B14",
+    "MouseSpeed_Key": "0xFC0B20",
+    "m_MouseSpeed": "0x2AC",
+
+    "m_spawnTime": "0x1F4",
+    "dwBattleGhostExit": "0xFC0720",
+    "oBattleGhostExit": "0x3c",
+    "oi3MatrixObject": "0x668",
+    "oi3MatrixObjectProxy": "0x6E4",
+    "oi3MatrixObject2": "0x50"
+    
+  }
+}
