@@ -1,47 +1,47 @@
 {
-  "Version": 7.0,
+  "Version": 7.1,
   "offsets": {
-    "dwLocalPlayer": "0xFD14AC",
+    "dwLocalPlayer": "0xFDD71C",
     
-    "CServerInfoContext_Ptr": "0xFC7DA4",
-    "CServerInfoContext_Ptr_Key": "0xFC7D50",
+    "CServerInfoContext_Ptr": "0xFD402C",
+    "CServerInfoContext_Ptr_Key": "0xFD4068",
     "m_ServerList": "0x180",
 
-    "ChannelList_Ptr": "0xFC7A90",
-    "ChannelList_Ptr_Key1": "0xFC7A08",
-    "ChannelList_Ptr_Key2": "0xFC7A04",
+    "ChannelList_Ptr": "0xFD3D20",
+    "ChannelList_Ptr_Key1": "0xFD3CA8",
+    "ChannelList_Ptr_Key2": "0xFD3CA4",
     "m_ChannelList": "0x38",
 
 
-    "Room_Ptr": "0xFCBAB0",
-    "Room_Ptr_Key1": "0xFCBA98",
-    "Room_Ptr_Key2": "0xFCBA9C",
+    "Room_Ptr": "0xFD7D20",
+    "Room_Ptr_Key1": "0xFD7D08",
+    "Room_Ptr_Key2": "0xFD7D0C",
     "m_Room": "0x28",
 
     
-    "Team_Ptr": "0xFC78F0",
-    "Team_Ptr_Key1": "0xFC78E0",
-    "Team_Ptr_Key2": "0xFC78DC",
-    "m_Team": "0x287D8",
+    "Team_Ptr": "0xFD3B80",
+    "Team_Ptr_Key1": "0xFD3B70",
+    "Team_Ptr_Key2": "0xFD3B6C",
+    "m_Team": "0xD0C",
 
     
-    "ButtonStart_Ptr": "0xFAC024",
-    "ButtonStart_Ptr_Key1": "0xFABFF4",
-    "ButtonStart_Ptr_Key2": "0xFABFF0",
+    "ButtonStart_Ptr": "0xFB82B4",
+    "ButtonStart_Ptr_Key1": "0xFB8284",
+    "ButtonStart_Ptr_Key2": "0xFB8280",
     "m_ButtonStart": "0x110",
 
-    "oBaseHealth": "0xD7C",
-    "oHealth": "0x6C",
+    "oBaseHealth": "0xD68",
+    "oHealth": "0x70",
 
-    "MouseSpeed_Ptr": "0xFC7D94",
-    "MouseSpeed_Key": "0xFC7DC4",
+    "MouseSpeed_Ptr": "0xFD406C",
+    "MouseSpeed_Key": "0xFD3FD8",
     "m_MouseSpeed": "0x2AC",
 
-    "m_spawnTime": "0x198",
-    "dwBattleGhostExit": "0xFC79D0",
+    "m_spawnTime": "0x47C",
+    "dwBattleGhostExit": "0xFD3C60",
     "oBattleGhostExit": "0x3c",
-    "oi3MatrixObject": "0x2C0",
-    "oi3MatrixObjectProxy": "0x524",
+    "oi3MatrixObject": "0xC18",
+    "oi3MatrixObjectProxy": "0x914",
     "oi3MatrixObject2": "0x50"
     
   }
